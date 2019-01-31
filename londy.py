@@ -1,4 +1,6 @@
-#! python
+#!/usr/bin/python3
+
+# 2015
 
 import random
 import os
