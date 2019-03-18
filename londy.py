@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
-# 2015
+# 2014
+# First script after getting familiar with syntax
 
 import random
 import os
